@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsDemo", "JenkinsDemo\JenkinsDemo.csproj", "{5E793C4F-C235-40A8-8DCA-002F1F9C52FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkisDemo.Tests", "JenkisDemo.Tests\JenkisDemo.Tests.csproj", "{5F22AD54-6D35-436C-A32B-EE716CC2112F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E793C4F-C235-40A8-8DCA-002F1F9C52FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E793C4F-C235-40A8-8DCA-002F1F9C52FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E793C4F-C235-40A8-8DCA-002F1F9C52FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E793C4F-C235-40A8-8DCA-002F1F9C52FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F22AD54-6D35-436C-A32B-EE716CC2112F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F22AD54-6D35-436C-A32B-EE716CC2112F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F22AD54-6D35-436C-A32B-EE716CC2112F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F22AD54-6D35-436C-A32B-EE716CC2112F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
